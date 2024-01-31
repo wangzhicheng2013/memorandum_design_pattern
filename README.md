@@ -1,0 +1,1 @@
+# memorandum_design_pattern
